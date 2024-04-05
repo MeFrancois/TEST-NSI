@@ -1,0 +1,39 @@
+{
+    "cSpell.words": [
+       
+    ],
+    
+        "todo-tree.tree.showScanModeButton": false,
+        "workbench.iconTheme": "al",
+        "[json]": {
+     
+            "editor.quickSuggestions": {
+                "strings": true
+            },
+            "editor.suggest.insertMode": "replace",
+            "gitlens.codeLens.scopes": [
+                "document"
+            ]
+        },
+        "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+        "CRS.FileNamePatternExtensions": "<BaseNameShort>.<ObjectTypeShortPascalCase>.al",
+        "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+        "CRS.ObjectNameSuffix": " NAP", 
+    "CRS.OnSaveAlFileAction": "Rename",
+    "git.autofetch": true,
+    "json.schemas": [
+    
+    ],
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "explorer.confirmDragAndDrop": false,
+    "git.confirmSync": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "launch": {
+    
+    
+        "configurations": [],
+        "compounds": []
+    }
+    
+}
