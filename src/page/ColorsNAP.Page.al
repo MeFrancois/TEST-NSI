@@ -20,6 +20,10 @@ page 59900 "Colors NAP"
                 {
                     ToolTip = 'Specifies the value of the Name field.';
                 }
+                field(HexaValue; Rec.HexaValue)
+                {
+                    ApplicationArea = All;
+                }
             }
         }
     }

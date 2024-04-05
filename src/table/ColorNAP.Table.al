@@ -13,6 +13,10 @@ table 59900 "Color NAP"
         {
             Caption = 'Name';
         }
+        field(3; HexaValue; Code[20])
+        {
+            DataClassification = ToBeClassified;
+        }
     }
     keys
     {
